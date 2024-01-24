@@ -15,7 +15,7 @@ This is a RESTful API for a blogging platform built using Node.js, Express.js, a
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/blog-api.git
+   git clone https://github.com/Abiodun001-world/blog-api.git
    ```
 
 2. **Install Dependencies:**
